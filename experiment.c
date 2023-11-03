@@ -8,7 +8,7 @@ void lower_to_uppercase(char string[]){
    }
 }
 }
-
+//hello world
 int main(){
   printf("enter the string : \n");
   char string[1000];
