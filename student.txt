@@ -1,0 +1,4 @@
+the name of the student is : Aagam 
+ the roll no of the student is : 116 
+ the cgpa of the student is : 6.530000 
+ 
