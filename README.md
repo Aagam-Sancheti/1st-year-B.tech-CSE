@@ -1,2 +1,1 @@
-These repository Contains all the projects made by me for Software lab. 
-These are some of most well researched and studied projects that I've worked upon until now (April 2024) 
+This Repository contains all the code which I've practiced and gone through while learning and doing assignments 
